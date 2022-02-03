@@ -6,9 +6,9 @@ Change input border on hover.
 
 Alterar borda de entrada ao passar o mouse
 
-# Adapted from:
+# Adapted from
 
-[w3schools] (https://www.w3schools.com/css/tryit.asp?filename=trycss_form_border)
+[w3schools](https://www.w3schools.com/css/tryit.asp?filename=trycss_form_border)
 
 # StackBlitz
 
